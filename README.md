@@ -1,12 +1,85 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🌐 My Portfolio
 
-Currently, two official plugins are available:
+A modern, responsive, and minimalistic developer portfolio built using **React JS** and **Tailwind CSS**. This website showcases my skills, projects, resume, and contact information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ [React.js](https://reactjs.org/) — Frontend JavaScript library
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
+- 📦 [Vite](https://vitejs.dev/) *(optional)* — For fast development build (if used)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Responsive design for mobile, tablet, and desktop
+- Smooth scroll and animated transitions
+- Projects section with GitHub/demo links
+- Skills section with categorized technology stacks
+- Contact form with EmailJS *(optional)*
+- Resume download/view option
+- Dark mode *(optional)*
+
+## 📁 Folder Structure
+
+```
+
+my-portfolio/
+├── public/
+│   └── assets/           # Images, resume, favicon, etc.
+├── src/
+│   ├── components/       # Reusable UI components (Navbar, Footer, etc.)
+│   ├── pages/            # Pages (Home, Projects, Contact)
+│   ├── App.jsx
+│   └── index.js
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── README.md
+
+````
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14+ recommended)
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/my-portfolio.git
+cd my-portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+````
+
+Visit `http://localhost:5173` in your browser.
+
+
+
+### Build for production
+
+```bash
+npm run build
+```
+
+Then deploy the `/dist` folder using your preferred hosting provider.
+
+## 🙌 Acknowledgements
+
+* [Heroicons](https://heroicons.com/)
+* [React Icons](https://react-icons.github.io/react-icons/)
+* [EmailJS](https://www.emailjs.com/) *(if used for contact form)*
+
+## 📫 Contact
+
+Feel free to reach out via:
+
+* Email: [gainarka@gmail.com](mailto:gainarka@gmail.com)
+* LinkedIn: [linkedin.com/in/arka-gain-150853254](https://linkedin.com/in/arka-gain-150853254")
