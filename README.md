@@ -7,7 +7,7 @@ A modern, responsive, and minimalistic developer portfolio built using **React J
 
 - ⚛️ [React.js](https://reactjs.org/) — Frontend JavaScript library
 - 🎨 [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework
-- 📦 [Vite](https://vitejs.dev/) *(optional)* — For fast development build (if used)
+- 📦 [Vite](https://vitejs.dev/) — For fast development build
 
 ## ✨ Features
 
@@ -15,9 +15,8 @@ A modern, responsive, and minimalistic developer portfolio built using **React J
 - Smooth scroll and animated transitions
 - Projects section with GitHub/demo links
 - Skills section with categorized technology stacks
-- Contact form with EmailJS *(optional)*
-- Resume download/view option
-- Dark mode *(optional)*
+- Contact form with Fromspree
+- Resume view option
 
 ## 📁 Folder Structure
 
@@ -75,11 +74,11 @@ Then deploy the `/dist` folder using your preferred hosting provider.
 
 * [Heroicons](https://heroicons.com/)
 * [React Icons](https://react-icons.github.io/react-icons/)
-* [EmailJS](https://www.emailjs.com/) *(if used for contact form)*
+* [Formspree](https://formspree.io/) 
 
 ## 📫 Contact
 
 Feel free to reach out via:
 
 * Email: [gainarka@gmail.com](mailto:gainarka@gmail.com)
-* LinkedIn: [linkedin.com/in/arka-gain-150853254](https://linkedin.com/in/arka-gain-150853254")
+* LinkedIn: [linkedin.com/in/arka-gain-150853254/](https://linkedin.com/in/arka-gain-150853254/")
